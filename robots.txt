@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /drive.google.com/open?id=1Th5f6Jko_0e86UNXkKxeE3luntPf-jTu
+Disallow: /https://drive.google.com/open?id=1Th5f6Jko_0e86UNXkKxeE3luntPf-jTu
